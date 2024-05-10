@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "database": "^0.0.2",
+    "mysql": "^2.18.1",
+    "mysqlconnector": "^2.0.6",
+    "node": "^21.6.2",
+    "node.js": "^0.0.1-security"
+  }
+}
